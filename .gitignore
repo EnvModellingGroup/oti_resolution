@@ -9,6 +9,15 @@
 *.tiff
 *.nc
 
+# tmp and swp files
+# vim files:
+*~
+*.swp
+*.swo
+*.swn
+*.swm
+*.swl
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
